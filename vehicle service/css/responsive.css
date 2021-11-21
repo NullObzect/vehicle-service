@@ -1,0 +1,33 @@
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+  .landing-img {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+  }
+  .booking-form {
+    top: 20px;
+    width: 280px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .landing-img {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+  }
+  .booking-form {
+    top: 20px;
+    width: 280px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .landing-img {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+}
